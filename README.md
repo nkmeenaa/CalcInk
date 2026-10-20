@@ -1,5 +1,4 @@
-# CalcInk
-Live at : [](https://inkcalc.vercel.app)
+#[CalcInk](https://inkcalc.vercel.app)
 
 CalcInk is a browser-based handwritten mathematics calculator.
 
