@@ -1,5 +1,5 @@
 # CalcInk
-Live at : [https://boot-camp-zeta.vercel.app/](https://inkcalc.vercel.app)
+Live at : [](https://inkcalc.vercel.app)
 
 CalcInk is a browser-based handwritten mathematics calculator.
 
